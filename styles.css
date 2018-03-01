@@ -1,5 +1,5 @@
 html {
-  background-color: black;
+  background-color: #000000;
 }
 
 h1 {
@@ -30,7 +30,7 @@ h1 {
   cursor: pointer;
 }
 .fab, .fas{
-  color: white;
+  color: #696969;
 }
 .fab:hover, .fas:hover {
   color: #CCCCCC;
