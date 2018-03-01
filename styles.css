@@ -17,6 +17,11 @@ h1 {
 }
 .icons {
   font-size: 15px;
-  color: white;
+  color: #DCDCDC;
   display: inline-block;
+  position: absolute;
+  top: 55%;
+  left: 55%;
+  margin-top: -60px;
+  margin-left: -150px;
 }
