@@ -29,13 +29,9 @@ h1 {
 #clickableAwesomeFont {
   cursor: pointer;
 }
-
-a:hover {
-  color: #CCCCCC;
-  background-color: #333333;
-  text-decoration: none;
-}
-
 .fab, .fas{
   color: white;
+}
+.fab:hover, .fas:hover {
+  color: #CCCCCC;
 }
