@@ -6,6 +6,7 @@
     "start": "harp server --port $PORT"
   },
   "dependencies": {
-    "harp": "^0.25.0"
+    "harp": "^0.25.0",
+    "marked": "^0.3.17"
   }
 }
